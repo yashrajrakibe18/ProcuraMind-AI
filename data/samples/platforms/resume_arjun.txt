@@ -1,0 +1,5 @@
+Arjun Mehta
+Backend developer, 5 years of experience.
+Skills: Python, SQL, Docker, PostgreSQL, REST APIs, Redis, AWS
+Professional experience: built REST APIs at a fintech startup.
+Education: B.Tech Computer Science

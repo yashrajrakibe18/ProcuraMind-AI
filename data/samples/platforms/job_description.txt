@@ -1,0 +1,15 @@
+Job Description: Backend Engineer
+
+We are hiring a backend engineer to build internal data services.
+
+Responsibilities
+- Design and maintain REST APIs
+- Review code and mentor juniors
+
+Requirements:
+- Python, SQL, Docker
+- Experience with REST APIs and PostgreSQL
+- 3+ years of professional experience
+
+Nice to have:
+- Kubernetes, AWS, Redis

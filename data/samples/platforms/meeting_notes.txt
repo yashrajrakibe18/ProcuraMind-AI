@@ -1,0 +1,11 @@
+Meeting notes: Project Falcon weekly sync
+Attendees: Asha, Ravi, Meera
+Agenda: release plan, vendor delivery, budget
+
+Decision: we agreed to move the release to 2026-12-15.
+Action: Ravi will confirm the vendor delivery date by 2026-12-01
+Meera to update the budget forecast by 2026-11-20
+Action: send the test report to the client
+The vendor delivery is delayed by two weeks and the release is blocked on the new server.
+There is a risk that the budget will overrun because of extra testing.
+Who owns the security review? TBD

@@ -1,0 +1,15 @@
+{
+  "_note": "Synthetic gold set for the synthetic policy document. Relevant = section title of the passage that answers the query.",
+  "cases": [
+    {"query": "What warranty is required for IT hardware?", "relevant": ["Warranty Standards"]},
+    {"query": "Maximum delivery lead time allowed", "relevant": ["Delivery and Acceptance"]},
+    {"query": "Who approves purchases above 50,000 dollars?", "relevant": ["Approval Authority"]},
+    {"query": "How many quotations are needed for competitive bidding?", "relevant": ["Competitive Bidding"]},
+    {"query": "When must a quotation be reviewed by a second officer because of price deviation?", "relevant": ["Price Evaluation"]},
+    {"query": "What must evaluators do if they have a financial interest in a bidder?", "relevant": ["Conflict of Interest"]},
+    {"query": "Is there a preference for energy efficient equipment?", "relevant": ["Sustainability"]},
+    {"query": "When are goods accepted after delivery?", "relevant": ["Delivery and Acceptance"]},
+    {"query": "Should extended warranty cost be shown separately?", "relevant": ["Warranty Standards"]},
+    {"query": "Can a price outlier be called wrongdoing?", "relevant": ["Price Evaluation"]}
+  ]
+}

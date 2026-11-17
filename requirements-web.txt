@@ -1,0 +1,5 @@
+# Streamlit UI dependencies. The UI only talks to the API, so it needs no database/AI libraries.
+streamlit==1.67.0
+plotly==7.1.0
+pandas==3.0.5
+requests==2.34.2
